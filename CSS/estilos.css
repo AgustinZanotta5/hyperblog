@@ -1,5 +1,13 @@
 body{
-    color: blueviolet;
+    color: aquamarine;
     text-align: center;
     font-family: "Arial";
+    margin-inline: 2px;
+    
+}
+header{
+    color: red;
+    box-shadow: 0px 2px 20px 0px rebeccapurple;
+    margin: 0;
+    padding: 0.5cm;
 }
